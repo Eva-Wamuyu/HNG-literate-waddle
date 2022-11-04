@@ -1,0 +1,54 @@
+{
+    "format": "CHIP-0007",
+    "name": "",
+    "description": "",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": 0,
+    "series_total": 0,
+    "attributes": [
+        {
+            "trait_type": "",
+            "value": ""
+        },
+        {
+            "trait_type": "",
+            "value": ""
+        },
+        {
+            "trait_type": "",
+            "value": 0,
+            "min_value": 0,
+            "max_value": 0
+        }
+    ],
+    "collection": {
+        "name": "",
+        "id": "",
+        "attributes": [
+            {
+                "type": "",
+                "value": ""
+            },
+            {
+                "type": "",
+                "value": ""
+            },
+            {
+                "type": "",
+                "value": ""
+            },
+            {
+                "type": "",
+                "value": ""
+            },
+            {
+                "type": "",
+                "value": ""
+            }
+        ]
+    },
+    "data": {
+        "example_data": ""
+    }
+}
